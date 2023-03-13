@@ -7,7 +7,9 @@
 5. Now, run -> npx prisma migrate
 6. Now, run -> npx prisma generate 
 7. You're ready to seed the database now!! Run -> ts-node ./seed.ts
-7. Now start backend Api using -> ts-node server.ts
+8. Now start backend Api using -> ts-node server.ts
+
+For any Queries : irfanukani2@gmail.com (email) , https://linkdein.com/irfanukani (linkedin)
 
 Postman Collection Link : https://drive.google.com/file/d/1muasfD6mXB3pFDYSxXO6JO2H72FK813Y/view?usp=share_link
 
